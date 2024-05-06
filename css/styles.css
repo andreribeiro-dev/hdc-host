@@ -406,6 +406,14 @@ footer{
         margin-bottom: 18px;
     }
 
+    .pricing-container p {
+        font-size: 17px;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 10px;
+        
+    }
+
     .searchdomain-container h2 {
         font-size: 28px;
     }
